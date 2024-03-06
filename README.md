@@ -4,7 +4,7 @@
 
 ## Citation
 ```
-@inproceedings{citetracker,
+@inproceedings{rtracker,
   title={RTracker: Recoverable Tracking via PN Tree Structured Memory},
   author={Huang, Yuqing and Li, Xin and Zhou, Zikun and Wang, Yaowei and He, Zhenyu and Yang, Ming-Hsuan},
   booktitle={CVPR},
